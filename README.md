@@ -4,7 +4,7 @@
 
 View an interactive sample at www.braindroplabs.com/code/360slider.
 
-![Image](_assets/images/360-slider-example.png)
+![Image](assets/images/360-slider-example.png)
 
 ##License
 	
