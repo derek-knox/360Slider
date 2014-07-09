@@ -6,6 +6,10 @@ View an interactive sample at www.braindroplabs.com/code/360slider.
 
 ![Image](assets/images/360-slider-example.png)
 
+##*Notes
+
+This project is a simple rich prototype and could easily be culled from to create a more flexible/dynamic solution (utilize SVG vs. .png, make it a jQuery plugin, % based CSS, etc.). I just wanted to create a quick rich prototype that had some appeal to get a better feel of the interaction/behavior. Feel free to take it to the next level.
+
 ##License
 	
 	The MIT License (MIT)
