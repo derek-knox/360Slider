@@ -42,6 +42,9 @@ $(function(){
       duration: animDuration,
       step: function() {
         updateDegree(Math.round(this.val));
+      },
+      complete: function() {
+        updateDegree(targetVal);
       }
     });
   }
