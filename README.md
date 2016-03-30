@@ -36,3 +36,5 @@ This project is a simple rich prototype and could easily be culled from to creat
 
 ##Designed and Developed By
 Derek Knox | Braindrop Labs
+
+[@derekknox](https://twitter.com/derekknox)
