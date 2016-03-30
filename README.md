@@ -2,7 +2,7 @@
 
 360° Slider is a UI Component Concept which enables a subject/product to be spun 360° and to be viewed at predetermined "hotspot angles"
 
-View an interactive sample at www.braindroplabs.com/code/360slider.
+View an interactive sample at www.derekknox.com/lab/360slider/.
 
 ![Image](assets/images/360-slider-example.png)
 
