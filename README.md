@@ -1,4 +1,4 @@
-#360° Slider
+# 360° Slider
 
 360° Slider is a UI Component Concept which enables a subject/product to be spun 360° and to be viewed at predetermined "hotspot angles"
 
@@ -6,11 +6,11 @@ View an interactive sample at www.derekknox.com/lab/360slider/.
 
 ![Image](assets/images/360-slider-example.png)
 
-##*Notes
+## *Notes
 
 This project is a simple rich prototype and could easily be culled from to create a more flexible/dynamic solution (utilize SVG vs. .png, make it a jQuery plugin, % based CSS, etc.). I just wanted to create a quick rich prototype that had some appeal to get a better feel of the interaction/behavior. Feel free to take it to the next level.
 
-##License
+## License
 	
 	The MIT License (MIT)
 
@@ -34,7 +34,7 @@ This project is a simple rich prototype and could easily be culled from to creat
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
 
-##Designed and Developed By
+## Designed and Developed By
 Derek Knox | Braindrop Labs
 
 [@derekknox](https://twitter.com/derekknox)
